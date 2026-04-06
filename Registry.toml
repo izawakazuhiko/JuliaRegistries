@@ -4,3 +4,4 @@ repo = "https://github.com/izawakazuhiko/JuliaRegistries.git"
 
 [packages]
 a42d1af7-8a3f-4cb0-91e8-bffbe95c7eba = { name = "MATXS", path = "M/MATXS" }
+b26ffcc7-1808-4df9-95e0-612b0a556413 = { name = "SRACLibBuilder", path = "S/SRACLibBuilder" }
