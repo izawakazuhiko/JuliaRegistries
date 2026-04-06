@@ -7,3 +7,4 @@ repo = "https://github.com/izawakazuhiko/JuliaRegistries.git"
 7782c455-af32-4911-ad25-fa5c0ca09c9c = { name = "ENDF6Table", path = "E/ENDF6Table" }
 a42d1af7-8a3f-4cb0-91e8-bffbe95c7eba = { name = "MATXS", path = "M/MATXS" }
 b26ffcc7-1808-4df9-95e0-612b0a556413 = { name = "SRACLibBuilder", path = "S/SRACLibBuilder" }
+fb71164e-942c-4767-9782-3601c4453790 = { name = "FetchENDF", path = "F/FetchENDF" }
