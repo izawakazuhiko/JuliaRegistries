@@ -1,0 +1,5 @@
+name = "GithubRegistries"
+uuid = "5675c7fe-ba7c-4363-918a-7ca75c940b6a"
+repo = "https://github.com/izawakazuhiko/JuliaRegistries.git"
+
+[packages]
