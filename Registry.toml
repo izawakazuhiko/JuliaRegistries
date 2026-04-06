@@ -3,5 +3,6 @@ uuid = "5675c7fe-ba7c-4363-918a-7ca75c940b6a"
 repo = "https://github.com/izawakazuhiko/JuliaRegistries.git"
 
 [packages]
+49db3a44-92c3-47fb-ac8c-9d0b8fc7e751 = { name = "ENDF6", path = "E/ENDF6" }
 a42d1af7-8a3f-4cb0-91e8-bffbe95c7eba = { name = "MATXS", path = "M/MATXS" }
 b26ffcc7-1808-4df9-95e0-612b0a556413 = { name = "SRACLibBuilder", path = "S/SRACLibBuilder" }
